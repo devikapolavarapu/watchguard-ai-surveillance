@@ -1,4 +1,3 @@
-
 # 🚀 WatchGuard AI Surveillance
 
 ### Context-Aware AI Threat Detection & Intelligent Alerting System
@@ -144,6 +143,7 @@ Images are uploaded via cloud API integration, enabling:
 
 Integrated with Twilio API to send:
 ![WhatsApp Image 2026-02-13 at 12 35 05 PM](https://github.com/user-attachments/assets/28c551f8-2967-4ce0-8e1a-a7c741fd616a)
+<img width="328" height="738" alt="image" src="https://github.com/user-attachments/assets/25e84654-aa2f-447a-8baa-8be861d65ed3" />
 
 🚨 HIGH RISK (72/100): GUN detected for 5 seconds
 Evidence: https://res.cloudinary.com/dlh1nk6pq/image/upload/v1768937963/weapon_alerts/KNIFE_MEDIUM_1768937963.jpg
