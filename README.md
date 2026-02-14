@@ -243,3 +243,7 @@ It simulates how real-world surveillance intelligence systems are engineered.
 
 Developed as an advanced AI surveillance system focusing on intelligent threat validation and production-level alert design.
   - Devika Polavarapu
+## Collaborators
+
+- Yeluguri Gnana Prasanna
+- Pachipulusu Vyshnavi Annapurna
