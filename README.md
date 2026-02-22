@@ -1,7 +1,6 @@
 # 🚀 WatchGuard AI Surveillance
 
 ### Context-Aware AI Threat Detection & Intelligent Alerting System
-
 ---
 
 ## 📌 Overview
